@@ -1,3 +1,3 @@
-console.log('Hola Git');
+consolelog("Esta es la historia de jimmy");
 
-console.log("Hoy hablaremos de su vida y obra maestra" );
+consolelog("Mñaana no enfocaremos en su vida laboral");

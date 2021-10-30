@@ -11,6 +11,7 @@ body{
   text-align:left;
   border: 1px solid #DDD;
   margin: 0 auto;
+  padding:0;
 }
 
 #container h1{
@@ -30,4 +31,12 @@ body{
 }
 #cabecera p{
   padding-left: 10px;
+}
+footer{
+  text-align:center;
+  background-color: #999;
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center; 
 }
